@@ -2,7 +2,7 @@
 
 
 Welcome aboard! 
-I'm Kitty Liu. I mainly code in Python, Java, C++, and JavaScript and am a fullstack developer.
+I'm Kitty Liu. I mainly code in Python and JavaScript and am a fullstack developer.
 
 **Currently building my personal site**
 
