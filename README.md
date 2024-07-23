@@ -8,7 +8,7 @@ I'm Kitty Liu. I mainly code in Python and JavaScript and am a fullstack develop
 
 - 😁 Pronouns: she/her
 - 📚 BSc in Computer Science @ UBC
-- 💼 Currently a PM intern @ Signify
-- 👾 HackCamp Logistics @ nwPlus, Partnerships Director @ UBC Product Management Club
+- 💼 Currently doing Product @ 1Password
+- 👾 Design @ nwPlus, VP Partnerships @ UBC Product Management Club
 - 🐈 Cat lover
 
